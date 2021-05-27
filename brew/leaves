@@ -1,10 +1,12 @@
-gnutls
-youtube-dl
-unrar
-sqlite
 vim
 tmux
+htop
+tree
 wget
 svn
 gcc
+gnutls
+unrar
+sqlite
 openvpn
+youtube-dl
